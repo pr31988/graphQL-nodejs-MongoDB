@@ -1,5 +1,6 @@
 # graphQL-udemy-nodejs
  graphQL using express-graphql -: 
- createUser & login.
- create a post
+ create new user
+ login for existing user
+ create a post ; post is saved in MongoDB
  front end was a React reference code
