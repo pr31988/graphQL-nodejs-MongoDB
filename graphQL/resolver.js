@@ -71,7 +71,7 @@ module.exports = {
         !validator.isLength(postInput.title,{min: 5}))
             errors.push({message: 'invalid title'});
 
-        if(validator.isEmpty(userInput.content))
+        if(validator.isEmpty(postInput.content))
            errors.push({message: 'enter content'});
 
         if (errors.length > 0) {
