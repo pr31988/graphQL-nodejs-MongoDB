@@ -1,4 +1,4 @@
-# graphQL-udemy-nodejs
+# graphQL-nodejs-MongoDB
  graphQL using express-graphql -: 
  create new user
  login for existing user
